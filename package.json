@@ -1,0 +1,11 @@
+{
+  "name": "github-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daubattu/github-basic.git",
+  "author": "Nguyen Hung Khanh <nhk020996@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
